@@ -10,3 +10,5 @@
 HisMonDon/HisMonDon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Perhaps you would like to see my resume : https://docs.google.com/document/d/1TeG5MiKKt1WYQ_8ffeaAkjHo9ILlxy4Whu87EoPNdGk/edit?usp=sharing
+Or, my DMOJ account: https://dmoj.ca/user/HisMonDon
