@@ -5,7 +5,6 @@
 - 📫 How to reach me: eric.luchenyu@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am in the IB program at St.Robert CHS
-- 
 <!---
 HisMonDon/HisMonDon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
