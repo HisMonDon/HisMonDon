@@ -9,6 +9,6 @@
 HisMonDon/HisMonDon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Perhaps you would like to see my resume. If you would like to see my resume, please email me at eric.luchenyu@gmail.com
+If you would like to see my resume, please email me at eric.luchenyu@gmail.com
 
 Or, my DMOJ account: https://dmoj.ca/user/HisMonDon
