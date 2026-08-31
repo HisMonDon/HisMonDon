@@ -1,5 +1,4 @@
-
-Student developer interested in computer science, physics, and building useful software.
+Student developer interested in computer science, physics, and building useful software. Feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chenyulu/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eric.luchenyu@gmail.com) [![Static Badge](https://img.shields.io/badge/Website-green?logo=cloudera&logoColor=white)](https://chenyulu.dev)
 <!-- 
